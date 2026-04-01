@@ -1,0 +1,14 @@
+D:\MODERN TECH\CSharp Practice\palindrome-string\bin\Debug\net9.0\palindrome-string.exe
+D:\MODERN TECH\CSharp Practice\palindrome-string\bin\Debug\net9.0\palindrome-string.deps.json
+D:\MODERN TECH\CSharp Practice\palindrome-string\bin\Debug\net9.0\palindrome-string.runtimeconfig.json
+D:\MODERN TECH\CSharp Practice\palindrome-string\bin\Debug\net9.0\palindrome-string.dll
+D:\MODERN TECH\CSharp Practice\palindrome-string\bin\Debug\net9.0\palindrome-string.pdb
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.AssemblyInfoInputs.cache
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.AssemblyInfo.cs
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.csproj.CoreCompileInputs.cache
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.dll
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\refint\palindrome-string.dll
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.pdb
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\palindrome-string.genruntimeconfig.cache
+D:\MODERN TECH\CSharp Practice\palindrome-string\obj\Debug\net9.0\ref\palindrome-string.dll
